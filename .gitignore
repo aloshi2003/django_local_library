@@ -174,4 +174,8 @@ cython_debug/
 *.bak
 
 # Database
+<<<<<<< HEAD
 *.sqlite3
+=======
+*.sqlite3
+>>>>>>> ed8d7b7f952a7d19bd968b7d601fee00fa92beb3
